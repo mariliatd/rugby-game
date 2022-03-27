@@ -6,7 +6,6 @@
 #include "spy.h"
 
 // Functions
-
 /**
  * Main algorithm to move Defender player in a Game.
  * Given the player position, it should decide the next direction
